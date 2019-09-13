@@ -5,4 +5,4 @@ Test
 Test
 Test
 
-{{ Liquid if (); }}
+{% is this -invalid\#() %}
