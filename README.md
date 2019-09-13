@@ -4,3 +4,5 @@
 Test
 Test
 Test
+
+{{ Liquid if (); }}
